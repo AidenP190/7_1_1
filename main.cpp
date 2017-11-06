@@ -31,7 +31,7 @@ cout<< c <<endl;
 }
 catch(string & exp)
 {
- cout << "Not a vaild number to divide by" << endl;
+ cout << "Not a vaild number to divide by 0" << endl;
 }
 return 0; }
 
